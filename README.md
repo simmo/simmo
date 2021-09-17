@@ -6,7 +6,7 @@ Currently working at [DAZN](https://dazn.com/), previously [Zone/Cognizant](http
 
 #### Sometimes I write things at [mike.id](https://mike.id)
 
-< img alt="simmo's stats" src="https://github-readme-stats.vercel.app/api?username=simmo&show_icons=true&theme=default&hide_title=true&hide=contribs,issues&count_private=true&hide_rank=true&hide_border=true" />
+<img alt="simmo's stats" src="https://github-readme-stats.vercel.app/api?username=simmo&show_icons=true&theme=default&hide_title=true&hide=contribs,issues&count_private=true&hide_rank=true&hide_border=true" />
 
 <!--
 **simmo/simmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
