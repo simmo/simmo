@@ -2,9 +2,10 @@
 
 #### A UK based, front-end software engineer living in Sussex, working in London and remote.
 
-Currently working at [DAZN](https://dazn.com/), previously [Zone/Cognizant](https://zonedigital.com/). I’ve spent over 12 years working across the tech, marketing and publishing sectors to deliver high-end web apps, sites and products. My pronouns are he/him.
+Currently working at [DAZN](https://dazn.com/), ex-[Zone/Cognizant](https://zonedigital.com/).  \
+I’ve spent over 12 years working across the tech, marketing and publishing sectors to deliver high-end web applications, sites and products.
 
-#### Sometimes I write things at [mike.id](https://mike.id)
+**Sometimes I write things at [mike.id](https://mike.id)**
 
 <img alt="simmo's stats" src="https://github-readme-stats.vercel.app/api?username=simmo&show_icons=true&theme=default&hide_title=true&hide=contribs,issues&count_private=true&hide_rank=true&hide_border=true" />
 
