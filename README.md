@@ -1,9 +1,9 @@
 ### Hello, I’m Mike. 👋
 
-#### A UK based, front-end software engineer living in Sussex, working in London and remote.
+#### A UK-based, front-end software engineer living in Sussex, working in London and remotely.
 
 Currently working at [DAZN](https://dazn.com/), ex-[Zone/Cognizant](https://zonedigital.com/).  \
-I’ve spent over 12 years working across the tech, marketing and publishing sectors to deliver high-end web applications, sites and products.
+I’ve spent over 16 years working in the tech, marketing and publishing sectors to deliver high-end web applications, sites and products.
 
 **Sometimes I write things at [mike.id](https://mike.id)**
 
